@@ -35,7 +35,7 @@ ENDR
 .Fire:     db "FUEGO@"
 .Water:    db "AGUA@"
 .Grass:    db "PLANTA@"
-.Electric: db "ELÉCTRICO@"
+.Electric: db "ELÉCTRIC@"
 .Psychic:  db "PSÍQUICO@"
 .Ice:      db "HIELO@"
 .Ground:   db "TIERRA@"
@@ -46,5 +46,5 @@ ENDR
 .Dragon:   db "DRAGÓN@"
 .Steel:    db "ACERO@"
 .Fairy:    db "HADA@"
-.Dark:     db "SINIESTRO@"
+.Dark:     db "SINIESTR@"
 

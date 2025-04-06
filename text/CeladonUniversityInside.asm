@@ -1,76 +1,77 @@
 _CeladonUniversityInsideText1::
-	text "My name is PROF."
+	text "¡Soy el PROF."
 	line "WESTWOOD V!"
 	
-	para "My ancestors"
-	line "created the"
+	para "¡Mis ancestros"
+	line "crearon las"
 	cont "# BALL!"
 	
 	done
 
 _CeladonUniversityInsideText2::
-	text "It's an invoice"
-	line "selling the #"
-	cont "BALL to SILPH."
+	text "Es una factura de"
+	line "de venta de #"
+	cont "BALL a SILPH."
 	
 	done
 
 _CeladonUniversityInsideText3::
-	text "It's a paper"
-	line "speculating on"
-	cont "the idea of a"
-	cont "man-made #MON."
+	text "Es un artículo"
+	line "que especula sobre"
+	cont "la idea de un #MON"
+	cont "hecho por humanos."
 	
 	done
 
 _KHRP::
-	text "Eureka!"
+	text "¡Eureka!"
 	
-	para "This MAGIKARP can"
-	line "use DRAGON RAGE!"
+	para "¡Este MAGIKARP"
+	line "usa FURIA DRAGÓN!"
 	
-	para "Huh? You want to"
-	line "teach yours?"
+	para "¿Quieres que el"
+	line "tuyo lo aprenda?"
 	
-	para "Sure! Take this!"
+	para "¡Claro! Toma esto."
 	
 	prompt
 
 _CeladonUniversityInsideMagikarpText::
-	text "Name: MAGIKARP"
+	text "Nom.: MAGIKARP"
 
-	para "Like ancient"
-	line "specimens, it"
-	cont "can use DRAGON"
-	cont "RAGE."
+	para "Como antiguos"
+	line "especímenes,"
+	cont "puede usar"
+	cont "FURIA DRAGÓN."
 	
 	prompt
 
 _BookcaseText1::
-	text "The fossil record"
-	line "of #MON dates"
-	cont "back around 2"
-	cont "million years."
+	text "El registro fósil"
+	line "de los #MON se"
+	cont "remonta a unos 2"
+	cont "millones de años."
 	
-	para "BARON TAJIRIN"
-	line "of France found"
-	cont "30 species in"
-	cont "the 18th century."
+	para "El MAGNATE"
+	line "TAJIRIN de"
+	cont "Francia encontró"
+	cont "30 especies en"
+	cont "el siglo XVIII."
 	
 	done
 
 _BookcaseText2::
-	text "In 1899, PROF."
-	line "WESTWOOD of Japan"
-	cont "discovered #-"
-	cont "MON evolution,"
-	cont "documenting 50"
-	cont "species."
+	text "En 1899, el"
+	line "PROF. WESTWOOD de"
+	cont "Japón descubrió"
+	cont "la evolución #MON,"
+	cont "documentando 50"
+	cont "especies."
 	
-	para "PROF. OAK"
-	line "has since"
-	cont "documented a"
-	cont "further 120." ; Total: 200.
+	para "Desde entonces,"
+	line "el PROF. OAK ha"
+	cont "documentado"
+	cont "más de 120." ; Total: 200.
 	
 	done
 	
@@ -86,16 +87,16 @@ _BookcaseText3::
 	;cont "PRIMEAPE."
 	; too long and doesn't seem to fit.
 	
-	text "The modern #"
-	line "BALL was made by"
-	cont "researchers at"
-	cont "CELADON UNIVER-"
-	cont "SITY in 1925."
+	text "La # BALL moderna"
+	line "fue creada por"
+	cont "los investigadores"
+	cont "de la UNIVERSIDAD"
+	cont "AZULONA en 1925."
 	
 	done
 
 _SlowbroCry::
-	text "..."
+	text "¿..."
 	para "..."
 	para "..."
 	para "...BRO?"
@@ -103,28 +104,28 @@ _SlowbroCry::
 	done
 
 _ComputerScreen::
-	text "Chaotic graphs are"
-	line "visible on the PC"
-	cont "screen."
+	text "En la pantalla"
+	line "del PC se ven"
+	cont "gráficos caóticos."
 	
 	done
 
 _ReceivedTM23Text::
-	text "<PLAYER> received"
+	text "¡<PLAYER> recibió"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _TM23ExplanationText::
-	text "TM23 is DRAGON"
-	line "RAGE!"
+	text "¡La MT23 es"
+	line "FURIA DRAGÓN!"
 
-	para "Use it against"
-	line "weak #MON!"
+	para "¡Úsala frente"
+	line "#MON débiles!"
 	done
 
 _TM23NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "¡No tienes sitio"
+	line "para esto!"
 	done

@@ -97,7 +97,7 @@ _SSAnne9BattleText3::
 _SSAnne9EndBattleText3::
 	text "¡Debo"
 	line "felicitarte!"
-	promp
+	prompt
 
 _SSAnne9AfterBattleText3::
 	text "¡Prefiero a"

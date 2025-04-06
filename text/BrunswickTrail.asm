@@ -48,7 +48,7 @@ _BrunswickBattleText1::
 
 _BrunswickEndBattleText1::
 	text "No lo"
-	line "suficientemente..."
+	line "suficientemente."
 	prompt
 
 _BrunswickAfterBattleText1::
@@ -106,7 +106,7 @@ _FakeTreeNoCut::
 
 _FakeTreePrompt::
 	text "¡Este árbol puede"
-	line "CORTARSE!
+	line "CORTARSE!"
 	
 	para "¿Te gustaría usar"
 	line "CORTE?"

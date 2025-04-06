@@ -40,7 +40,7 @@ _Route15AfterBattleText2::
 _Route15BattleText3::
 	text "¡Silbando puedo"
 	line "llamar a los"
-	cont "#MON pájaros!"
+	cont "#MON pájaro!"
 	done
 
 _Route15EndBattleText3::
@@ -70,13 +70,13 @@ _Route15AfterBattleText4::
 	line "movimientos como"
 	cont "TERREMOTO no"
 	cont "afectan a los"
-	cont "pájaros?"
+	cont "#MON pájaro?"
 	done
 
 _Route15BattleText5::
 	text "¡Oh! ¡Eres tan"
 	line "mono!"
-	donee
+	done
 
 _Route15EndBattleText5::
 	text "¡Y parecías"
@@ -166,11 +166,11 @@ _Route15EndBattleText10::
 
 _Route15AfterBattleText10::
 	text "¡Me entrenaré con"
-	line "gente más débil!@"
+	line "gente más débil!"
 	text_end
 
 _Route15Text12::
 	text "RUTA 15:"
 	line "CIUDAD FUCSIA"
-	cont "al oeste"
+	cont "al oeste."
 	done

@@ -18,7 +18,7 @@ _Route14AfterBattleText1::
 	done
 
 _Route14BattleText2::
-	text "Mis #MON pájaros"
+	text "Mis #MON pájaro"
 	line "deberían"
 	cont "poder luchar."
 	done
@@ -148,7 +148,7 @@ _Route14BattleText9::
 	done
 
 _Route14EndBattleText9::
-	text "¡Aniquilado!
+	text "¡Aniquilado!"
 	prompt
 
 _Route14AfterBattleText9::

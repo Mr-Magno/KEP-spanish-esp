@@ -1,158 +1,162 @@
 _LTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "¡Te daré un"
+	line "pequeño consejo!!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "¡La electricidad"
+	line "es muy potente!"
 
-	para "But, it's useless"
-	line "against GROUND-"
-	cont "type #MON!"
+	para "Pero no afecta"
+	line "a los #MON"
+	cont "del tipo-tierra!"
 	done
 
 _LTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
-	line "cranks up the"
-	cont "DEFENSE of your"
-	cont "#MON!"
+	text "¡La MEDALLA-"
+	line "TRUENO aumenta"
+	cont "la VELOCIDAD de"
+	cont "tus #MON!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para ""¡Y permite volar"
+	line "a tus #MON"
+	cont "cuando quieran!""
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "¡Tú eres muy"
+	line "especial, chaval!"
+	cont "¡Toma esto!"
 	done
 
 _ReceivedTM24Text::
-	text "<PLAYER> received "
+	text "¡<PLAYER> recibió"
 	line "@"
-	text_ram wStringBuffer
+	text_ram wcf4b
 	text "!@"
 	text_end
 
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "¡MT24 incluye"
+	line "el RAYO!"
 
-	para "Teach it to an"
-	line "ELECTRIC-type,"
-	cont "like PIKACHU or"
-	cont "GAOTORA!"
+	para "¡Enséñaselo a"
+	line "un #MON"
+	cont "eléctrico como"
+	cont "Pikachu o Gatora!"
 	done
 
 _TM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "¡Mejor que le"
+	line "hagas sitio!"
 	done
 
 _ReceivedThunderBadgeText::
-	text "Whoa!"
+	text "¡Guau!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "¡Tú sí que eres"
+	line "fuerte, chico!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "¡Bien, toma la"
+	line "MEDALLA-TRUENO!"
 	prompt
 
 _VermilionGymBattleText1::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "¡Cuando estaba en"
+	line "el EJÉRCITO, el"
+	cont "LT. SURGE era"
+	cont "muy estricto!"
 	done
 
 _VermilionGymEndBattleText1::
-	text "Stop!"
-	line "You're very good!"
+	text "¡Alto!"
+	line "¡Eres muy bueno!""
 	prompt
 
 _VermilionGymAfterBattleText1::
-	text "The door won't"
-	line "open?"
+	text "¿No se abrirá"
+	line "la puerta?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "¡El LT. SURGE"
+	line "siempre fue"
+	cont "muy cuidadoso!"
 	done
 
 _VermilionGymBattleText2::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "¡No es que yo sea"
+	line "muy fuerte, pero"
+	cont "soy muy bueno con"
+	cont "la electricidad!"
 	done
 
 _VermilionGymEndBattleText2::
-	text "Fried!"
+	text "¡Machacado!"
 	prompt
 
 _VermilionGymAfterBattleText2::
-	text "OK, I'll talk!"
+	text "¡Vale, hablaré!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "¡LT. SURGE dijo"
+	line "que ocultaría los"
+	cont "botones de la"
+	cont "puerta dentro"
+	cont "de algo! "
 	done
 
 _VermilionGymBattleText3::
-	text "This is no place"
-	line "for kids!"
+	text "¡Este lugar no"
+	line "es para niños!"
 	done
 
 _VermilionGymEndBattleText3::
-	text "Wow!"
-	line "Surprised me!"
+	text "¡Uuuaa!"
+	line "¡Me sorprendiste!"
 	prompt
 
 _VermilionGymAfterBattleText3::
-	text "Here's a hint!"
+	text "LT. SURGE"
+	line "colocó dobles"
+	cont "cerraduras. ¡Te"
+	cont "daré una pista!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "¡Tras abrir la"
+	line "1a. cerradura, la"
+	cont "2a. está al lado!"
 
-	para "Though, half the"
-	line "time, the wiring"
-	cont "messes up, and"
-	cont "it'll be in the"
-	cont "top left can..."
-	done
 
 _VermilionGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "the making!"
+	text "¡Hola, posible"
+	line "campeón!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "El LT. SURGE"
+	line "tiene un mote."
+	cont "¡La gente le"
+	cont "llama el Rayo"
+	cont "Americano!"
 
-	para "He's an expert on"
-	line "ELECTRIC-type"
-	cont "#MON!"
+	para "¡Es un experto"
+	line "en los #MON"
+	cont "eléctricos!"
 
-	para "Birds and aquatic"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "¡Los #MON"
+	line "voladores y los"
+	cont "acuáticos están"
+	cont "en peligro! ¡Ten"
+	cont "cuidado con la"
+	cont "parálisis!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "¡El LT. SURGE es"
+	line "muy cuidadoso!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "¡Descifra un"
+	line "código y"
+	cont "llegarás a él!"
 	done
 
 _VermilionGymGuidePostBattleText::
-	text "Whew! That match"
-	line "was electric!"
+	text "¡Uau! ¡Vaya pelea"
+	line "tan eléctrica!"
 	done
 
 _SurgeRematchDefeatedText::
-	text "Hah!"
-	line "Shocking!"
+	text "¡Hah!"
+	line "¡Garrampazo!"
 	prompt

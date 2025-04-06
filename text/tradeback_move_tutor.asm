@@ -1,12 +1,12 @@
 _TradebackTutorGreetingText::
-	text "En una tierra,"
-	line "lejana, nuestro"
+	text "En una tierra"
+	line "lejana, nuestros"
 	cont "#MON pueden"
 	cont "aprender"
 	cont "movimientos"
 	cont "diferentes."
 
-	para "Por 1000¥,"
+	para "Por 1.000¥,"
 	line "puedo enseñarles"
 	cont "a los tuyos."
 	done

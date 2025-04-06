@@ -13,8 +13,8 @@ _FishingGuruHouseText_564c5::
 	text "¡Magnífico! ¡Me"
 	line "gusta tu estilo!"
 
-	para "¡Toma eso y pes-"
-	line "ca, chaval!"
+	para "¡Toma esto y"
+	line "pesca, chaval!"
 
 	para "¡<PLAYER> recibió"
 	line "a @"

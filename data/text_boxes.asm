@@ -39,7 +39,7 @@ TextBoxTextAndCoordTable:
 BuySellQuitText:
 	db   "COMPRAR"
 	next "VENDER"
-	next "SALIR@"
+	next "¡ADIÓS!@"
 
 	db "@" ; unused
 
@@ -58,7 +58,7 @@ JapaneseSpeedOptionsText:
 	next "おそい@"
 
 MoneyText:
-	db "DINERO@"
+	db "DIN.@"
 
 JapaneseMochimonoText:
 	db "もちもの@"
@@ -69,16 +69,16 @@ JapaneseMainMenuText:
 
 BattleMenuText:
 	db   "LUCHA <PK><MN>"
-	next "OBJ.  HUIR@"
+	next "OBJ.  ESC@"
 
 SafariZoneBattleMenuText:
 	db   "BALL×       CEBO"
-	next "TIRAR ROCA  HUIR@"
+	next "LANZA ROCA  CORRE@"
 
 SwitchStatsCancelText:
-	db   "CAMBIAR"
-	next "ESTADÍS."
-	next "CANCELAR@"
+	db   "CAMBIO"
+	next "ESTAD."
+	next "SALIR@"
 
 BoyGirlNoText:
 	db   "ROJO"

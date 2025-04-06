@@ -2,10 +2,10 @@ _FarawayIslandSign::
 	text "El escrito se"
 	line "desvanece como si"
 	cont "hubiera sido"
-	cont "escrita hace"
+	cont "escrito hace"
 	cont "mucho tiempo..."
 	
-	para "...bre, día 6"
+	para "6 de ...bre."
 	
 	para "Si algún human..."
 	line "pone un pie..."

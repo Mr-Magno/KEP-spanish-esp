@@ -95,7 +95,7 @@ _SilphGauntlet2FEndBattleText5::
 
 _SilphGauntlet2FAfterBattleText5::
 	text "¿Eh? ¿Por qué"
-	lines "PRESIDENTE?"
+	line "PRESIDENTE?"
 	
 	para "¡Solo quiero su"
 	line "dinero!" ; hahahahahaha

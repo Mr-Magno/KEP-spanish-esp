@@ -29,8 +29,8 @@ _GiovannisRoomText1::
 	cont "de RHYDON. Ergo,"
 	cont "no puede usar mi"
 	cont "técnica FISURA"
-	cont "FISSURE en su"
-	cont "máximo esplendor."	
+	cont "en su máximo"
+	cont "esplendor."	
 	done
 
 ; Madame Boss, Giovanni's mother, is from a Japan-exclusive Radio Drama.
@@ -75,13 +75,13 @@ _GiovannisRoomText3::
 	cont "documentos"
 	cont "financieros..."
 	
-	para "PROTECTOR: ¥3,000" ; Giovanni discovered the Protector's use with Rhyperior.
+	para "PROTECTOR: 3,000¥" ; Giovanni discovered the Protector's use with Rhyperior.
 
-	para "ATAQUE X: ¥8,000" ; Giovanni uses this in battle.
+	para "ATAQUE X: 8,000¥" ; Giovanni uses this in battle.
 
-	para "MT27 R&D: ¥15,000" ; Giovanni is confirmed to have created Fissure in vanilla RBY. He also says he made Earthquake in FRLG, but it feels contrived.
+	para "MT27 R&D: 15,000¥" ; Giovanni is confirmed to have created Fissure in vanilla RBY. He also says he made Earthquake in FRLG, but it feels contrived.
 
-	para "Negocio: ¥250,000"
+	para "Negocio: 250,000¥"
 	
 	para "Y más..."
 	
@@ -96,6 +96,6 @@ _GiovannisRoomText4::
 	
 	para "La fecha es..."
 	
-	para "¡¿1977?!"
+	para "¿¡1977!?"
 	
 	done

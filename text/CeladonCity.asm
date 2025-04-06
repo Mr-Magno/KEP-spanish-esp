@@ -1,6 +1,6 @@
 _CeladonCityText1::
 	text "¡Conseguí a mi"
-	line "KOFFING en la"
+	line "KOFFING en"
 	cont "CIUDAD CANELA!"
 	
 	para "¡Es muy simpático"
@@ -55,7 +55,7 @@ _ReceivedTM41Text::
 
 _TM41ExplanationText::
 	text "¡La MT41 enseña"
-	line "el AMORTIGUADOR!""
+	line "el AMORTIGUADOR!"
 
 	para "¡Solo dos #MON"
 	line "pueden usarla,"
@@ -70,7 +70,7 @@ _TM41NoRoomText::
 
 _CeladonCityText6::
 	text "¡Éste es mi fiel"
-	line "compañero, " ; this space might be off
+	line "compañero,"
 	cont "POLIWRATH!"
 
 	para "¡Evolucionó del"

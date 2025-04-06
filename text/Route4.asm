@@ -11,7 +11,7 @@ _Route4BattleText1::
 	done
 
 _Route4EndBattleText1::
-	text "¡Oh! ¡Mis pobre"
+	text "¡Oh! ¡Mis pobres"
 	line "#MON hongo!"
 	prompt
 
@@ -107,7 +107,7 @@ _TM05ExplanationText::
 	text "¡Ahora somos"
 	line "camaradas del"
 	cont "arte de la"
-	cont patada!
+	cont "patada!"
 	
 	para "Deberías irte"
 	line "antes de que te"

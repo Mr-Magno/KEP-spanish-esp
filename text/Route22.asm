@@ -87,10 +87,10 @@ _Route22RivalAfterBattleText2::
 	done
 
 _Route22RivalDefeatedText2::
-	text "What!?"
+	text "¿¡Qué!?"
 
-	para "I was just"
-	line "careless!"
+	para "¡Es que no"
+	line "tuve cuidado!"
 	prompt
 
 _Route22Text_511d0::

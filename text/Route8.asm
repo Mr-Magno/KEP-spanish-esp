@@ -79,7 +79,7 @@ _Route8EndBattleText5::
 
 _Route8AfterBattleText5::
 	text "Las puertas de"
-	line "la ciudad AZAFRÁN"
+	line "CIUDAD AZAFRÁN"
 	cont "nos tienen"
 	cont "bloqueados."
 	done

@@ -12,7 +12,7 @@ _CelesteHillOutsideEndBattleText1::
 	prompt
 
 _CelesteHillOutsideAfterBattleText1::
-	text "*Suspiero*..."
+	text "Suspiro..."
 	line "Estoy harta de"
 	cont "esto. ¿Dónde está"
 	cont "mi mayordomo?"

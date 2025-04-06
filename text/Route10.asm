@@ -50,7 +50,6 @@ _Route10AfterBattleText3::
 	line "cuando ganas!"
 	done
 
-
 _Route10BattleText4::
 	text "He estado varias"
 	line "veces en un"

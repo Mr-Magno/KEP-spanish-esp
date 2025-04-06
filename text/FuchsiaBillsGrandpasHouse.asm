@@ -5,7 +5,7 @@ _FuchsiaHouse1Text1::
 	cont "sigue en activo!"
 
 	para "¡Aunque todos"
-	line "sus dientes "
+	line "sus dientes"
 	cont "son postizos!"
 	done
 

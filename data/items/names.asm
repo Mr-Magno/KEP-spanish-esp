@@ -4,7 +4,7 @@ ItemNames::
 	li "ULTRA BALL"
 	li "SÚPER BALL"
 	li "POKé BALL"
-	li "MAPA PUEBLO"
+	li "MAPA REGIÓN"
 	li "BICICLETA"
 	li "BALL LAPRAS" ; Pocket Lapras
 	li "SAFARI BALL"

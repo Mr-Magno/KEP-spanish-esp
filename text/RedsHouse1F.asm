@@ -58,7 +58,7 @@ _MomYoureBack::
 ; I want the letter text to play when we use the letter, so it's gonna be like this.
 _ReceivedChiefLetterText::
 	text "¡<PLAYER> recibió"
-	line "the @"
+	line "la @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -86,7 +86,7 @@ _ChiefLetterText::
 	line "SILPH S.A.?"
 	
 	para "¡Te esperamos!"
-	line "    - CHIEF"
+	line "-PRESIDENTE"
 	prompt
 
 _MomAmazing::

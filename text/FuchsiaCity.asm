@@ -139,7 +139,7 @@ _SafariBallSalesmanText1::
 	para "¿Quieres llevar-"
 	line "te algunas?"
 	cont "Te dejo 3 por"
-	cont " tan solo ¥2400."
+	cont "tan solo 2.400¥."
 	cont "¡Piénsatelo!"
 
 	para "¡No encontrarás"

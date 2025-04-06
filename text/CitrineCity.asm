@@ -5,7 +5,7 @@ _CitrineCityBillboard1::
 	done
 
 _CitrineCityBillboard2::
-	text "RESTAURAR TODO"
+	text "RESTAU. TODO"
 	line "¡La solución para"
 	cont "cualquier mal!"
 	done

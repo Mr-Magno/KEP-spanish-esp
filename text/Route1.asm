@@ -57,7 +57,7 @@ _OakFirstBattleText::
 	line "¡<PLAYER>!"
 	
 	para "¡Qué bien verte"
-	line "por aquí!
+	line "por aquí!"
 	
 	para "La última vez que"
 	line "coincidimos aquí,"
@@ -70,7 +70,7 @@ _OakFirstBattleText::
 	
 	para "Tu victoria en"
 	line "la LIGA #MON ha"
-	cont "ha encendido una"
+	cont "encendido una"
 	cont "chispa en mí que"
 	cont "hacía tiempo"
 	cont "que se había"
@@ -138,14 +138,14 @@ _OakFirstWin::
 
 _ReceivedCitrinePassText::
 	text "¡<PLAYER> recibió"
-	line "the @"
+	line "el @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _OakCitrineExplain::
-	text "Es un ticket para-"
-	line "ra CIUDAD CITRINO."
+	text "Es un ticket para"
+	line "CIUDAD CITRINO."
 	
 	para "Es un lugar donde"
 	line "los mejores entre-"

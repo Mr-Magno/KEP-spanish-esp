@@ -104,7 +104,7 @@ _Route9BattleText7::
 	text "¡Madrugo todos"
 	line "los días para"
 	cont "cuidar a mis"
-	cont "#MON capullo"
+	cont "#MON capullo."
 	done
 
 _Route9EndBattleText7::

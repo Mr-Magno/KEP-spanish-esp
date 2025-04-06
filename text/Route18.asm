@@ -6,7 +6,7 @@ _Route18BattleText1::
 	done
 
 _Route18EndBattleText1::
-	text "¡Tch!
+	text "¡Tch!"
 	prompt
 
 _Route18AfterBattleText1::

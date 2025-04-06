@@ -38,13 +38,13 @@ TwoOptionMenuStrings:
 	next "PERROS@"
 
 .NorthEastMenu:
-	db   "NORTE"
-	next "ESTE@"
+	db   "NORTH"
+	next "EAST@"
 
 .TradeCancelMenu:
-	db   "CAMBIAR"
-	next "CANCELAR@"
+	db   "TRATO"
+	next "SALIR@"
 
 .HealCancelMenu:
 	db   "CURAR"
-	next "CANCELAR@"
+	next "SALIR@"

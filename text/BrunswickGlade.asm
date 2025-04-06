@@ -20,7 +20,7 @@ _BrunswickGladeBattleText1:: ; Leaf
 
 _BrunswickGladeEndBattleText1::
 	text "¡Maldita"
-	line "sea!" ; Taken from Smash Ultimate when a Pokemon faints. Cryptid moment.
+	line "sea!"
 	prompt
 
 _BrunswickGladeAfterBattleText1::
@@ -38,8 +38,8 @@ _BrunswickGladeAfterBattleText1::
 
 _BrunswickGladeBattleText2:: ; Fuji
 	text "Parece que has"
-	line "criados tus #-"
-	cont "MON con amor"
+	line "criados tus"
+	cont "#MON con amor"
 	cont "y cariño."
 	
 	para "¡Veamos cómo se"
@@ -77,8 +77,8 @@ _BrunswickGladeEndBattleText3::
 	prompt
 
 _BrunswickGladeAfterBattleText3::
-	text "¿Te has planteado"
-	line "trabajar con"
+	text "¿Quieres"
+	line "trabajar para"
 	cont "el TEAM ROCKET?"
 	
 	para "¿No? Olvida lo"

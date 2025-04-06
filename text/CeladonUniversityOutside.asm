@@ -1,110 +1,111 @@
 _CeladonUniversityOutsideYesNo1::
-	text "I love battles!"
-	line "Wanna go?"
+	text "¡Amo combatir"
+	line "¿Combatimos?"
 	done
 
 _CeladonUniversityRefuse::
-	text "Aww! Next time?"
+	text "¡Ohh! ¿En"
+	line "otro momento?"
 	done
 
 _CeladonUniversityOutsideBattleText1::
-	text "Ok! Game on!"
+	text "¡Ok! ¡Adelante!"
 	done
 
 _CeladonUniversityOutsideBattleText2::
-	text "Let's go!"
+	text "¡Vamos!"
 	done
 
 _CeladonUniversityOutsideBattleText3::
-	text "I'm at the top"
-	line "of my game!"
-	cont "Go, GOLEM!"
+	text "¡Estoy en la cima"
+	line "de mi juego!"
+	cont "¡Ve, GOLEM!"
 	done
 
 _CeladonUniversityOutsideBattleText4::
-	text "This time, for"
-	line "sure!"
+	text "Esta vez,"
+	line "¡seguro!"
 	done
 
 _CeladonUniversityOutsideLoseText1::
-	text "Darn!"
-	line "You beat me!"
+	text "¡Maldita sea!"
+	line "¡Me has ganado!"
 	prompt
 
 _CeladonUniversityOutsideLoseText2::
-	text "Darn!"
-	line "It must need an"
-	cont "update!"
+	text "¡Maldición!"
+	line "¡Necesita una"
+	cont "actualización!"
 	prompt
 
 _CeladonUniversityOutsideLoseText3::
-	text "Not"
-	line "enough..."
+	text "No es"
+	line "suficiente..."
 	prompt
 
 _CeladonUniversityOutsideLoseText4::
-	text "One"
-	line "day I'll beat"
-	cont "you!"
+	text "¡Un día te"
+	line "ganaré! ¡Ya"
+	cont "verás!"
 	prompt
 
 _CeladonUniversityOutsideWinText::
-	text "Hmm!"
-	line "Need to brush"
-	cont "up?"
+	text "¡Mmm!"
+	line "¿Necesitas"
+	cont "repasar?"
 	prompt
 
 _CeladonUniversityOutsideAfterBattleText::
-	text "I'll get you next"
-	line "time!"
+	text "¡Ya verás la"
+	line "próxima vez!"
 	done
 
 _CeladonUniversityOutsideYesNo2::
-	text "I've been working"
-	line "on an artificial"
-	cont "#MON."
+	text "He estado"
+	line "trabajando en un"
+	cont "#MON artificial."
 	
-	para "Want to help me"
-	line "test it for my"
-	cont "thesis?"
+	para "¿Quieres ayudarme"
+	line "a probarlo para"
+	cont "mi tesis?"
 	
 	done
 
 _CeladonUniversityOutsideYesNo3::
-	text "I had the TRADER"
-	line "lend me a hand."
+	text "El INTERCAMBIADOR"
+	line "me echó una mano."
 	
-	para "I could beat"
-	line "anyone in the"
-	cont "UNIVERSITY!"
+	para "¡He podido con"
+	line "todos los de"
+	cont "la UNIVERSIDAD!"
 	
-	para "Try me!"
+	para "¡Pruébame!"
 	
 	done
 	
 _CeladonUniversityOutsideYesNo4::
-	text "Hey! I met you"
-	line "in MT. MOON!"
+	text "¡Eh! ¡Nos vimos"
+	line "en el MT. MOON!"
 	
-	para "Want a rematch?"
+	para "¿Una revancha?"
 	done
 
 _CeladonUniversityOutsideNPC1::
-	text "I qualified for"
-	line "this UNIVERSITY"
-	cont "through a"
-	cont "magazine."
+	text "Me gradué para"
+	line "esta UNIVERSIDAD"
+	cont "a través de"
+	cont "una revista."
 	
 	done
 
 _CeladonUniversityOutsideNPC2::
-	text "I got referred"
-	line "after studying"
-	cont "with ERIKA."
+	text "Me recomendaron"
+	line "después de estu-"
+	cont "diar con ERIKA."
 
-	para "Her GRASS-type"
-	line "knowledge is"
-	cont "astounding!"
+	para "¡Su conocimiento"
+	line "sobre el tipo-"
+	cont "planta impresiona!"
 	
 	done
 

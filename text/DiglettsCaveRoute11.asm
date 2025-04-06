@@ -4,6 +4,6 @@ _DiglettsCaveEntRoute11Text1::
 	cont "cavaron este"
 	cont "largo túnel!"
 
-	para "¡Va a la"
+	para "¡Va a"
 	line "CIUDAD VERDE!"
 	done

@@ -86,7 +86,7 @@ _CeladonMansionMorimotoGreeting:: ; LGPE
 	prompt
 
 _CeladonMansionMorimotoFight:: ; LGPE
-	text "¡Allá voy!"
+	text "¡Allé voy!"
 	prompt
 
 _CeladonMansionMorimotoNo:: ; USUM
